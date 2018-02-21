@@ -73,7 +73,7 @@ class: middle, center
 
 # Validating current spatial catch datasets
 
-<img src="img/bubble_plot_and_histogram.png" width="700"/> 
+<img src="img/gfw-sau-bubbles.png" width="700"/> 
 
 ---
 # Advancing marine conservation

@@ -4,7 +4,7 @@ author: "Juan S. Mayorga"
 date: "2018/02/22"
 output:
   xaringan::moon_reader:
-    css: ["my-theme.css", "metropolis", "rladies-fonts"]
+    css: ["metropolis", "rladies-fonts"]
     lib_dir: libs
     nature:
       highlightStyle: github
@@ -38,6 +38,8 @@ options(htmltools.dir.version = FALSE)
 
 # The economics of fishing the high seas
 
+--
+
 <img src="img/costs.png" width="400"/> 
 --
 
@@ -55,8 +57,6 @@ class: center
 <img src="img/profits_dumbell.png" width="800"/> 
 
 ---
-class: middle, center
-
 # Validating current spatial catch datasets
 
 <img src="img/gfw_sau_map.png" width="850"/> 

@@ -1,0 +1,92 @@
+---
+title: "Leveraging Global Fishing Watch for fisheries science & marine conservation"
+author: "Juan S. Mayorga"
+date: "2018/02/22"
+output:
+  xaringan::moon_reader:
+    css: ["my-theme.css", "metropolis", "rladies-fonts"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Global Fishing Watch in Action
+
+- What are economic costs and benefits of fishing the high seas and what is the role of government subsidies ?
+
+<br>
+
+--
+
+- How well do we currently know the spatial provenance of marine fish harvest?
+
+<br>
+
+--
+
+- How has transparent and open data helped protect close to 1 million square kilometers of the ocean in 4 different countries in 2017?
+
+<br>
+
+---
+
+# The economics of fishing the high seas
+
+<img src="img/costs.png" width="400"/> 
+--
+
+<img src="img/revenue.png" width="400"/> 
+--
+
+<img src="img/profits.png" width="400"/> 
+--
+<img src="img/profits_plus_subsidies.png" width="400"/> 
+
+---
+class: center
+# The economics of fishing the high seas
+
+<img src="img/profits_dumbell.png" width="800"/> 
+
+---
+class: middle, center
+
+# Validating current spatial catch datasets
+
+<img src="img/gfw_sau_map.png" width="850"/> 
+
+---
+class: middle, center
+
+# Validating current spatial catch datasets
+
+<img src="img/IDN_effort.png" width="450"/> <img src="img/IDN_catch.png" width="450"/>
+
+---
+class: middle, center
+
+# Validating current spatial catch datasets
+
+<img src="img/bubble_plot_and_histogram.png" width="700"/> 
+
+---
+# Advancing marine conservation
+
+<img src="img/ps_map.jpg" width="800"/> 
+
+---
+# Advancing marine conservation
+<br>
+<br>
+<br>
+<br>
+<img src="img/arg_mpas.png" width="400"/> 
+<img src="img/arg_mpas_boxplot.png" width="420"/> 
+
+
